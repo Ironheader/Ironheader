@@ -5,12 +5,9 @@ Game Development
 - 🌱 I’m currently learning ...
 Unity
 C#
-Modeling
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Instagram the_almighty_slimjim
-Twitter @ironheader1
-Youtube: Ironheader
 
 - Yes Just Yes!!
 
